@@ -1,5 +1,5 @@
 # Welcome to online-gpslam
-@(Gaussian process)[incremental|GTSAM 3.2|SLAM]
+[Gaussian process|incremental|GTSAM 3.2|SLAM]
 >Here is the code repository for the paper `Incremental Sparse GP Regression for Continuous-time Trajectory Estimation and Mapping`  *By Xinyan Yan, Vadim Indelmany, and Byron Boots*
 
 ## Introduction
@@ -30,3 +30,4 @@ cmake ..	  		# configure
 make 				# build
 sudo make install 	# install
 ```
+Please reach me at <voidpointer@gatech.edu> if there's any problem. Thanks!
