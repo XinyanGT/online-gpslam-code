@@ -1,6 +1,6 @@
 # Welcome to online-gpslam
 [Gaussian process|incremental|GTSAM 3.2|SLAM]
->Here is the code repository for the paper `Incremental Sparse GP Regression for Continuous-time Trajectory Estimation and Mapping`  *By Xinyan Yan, Vadim Indelmany, and Byron Boots*
+>Here is the code repository for the paper `Incremental Sparse GP Regression for Continuous-time Trajectory Estimation and Mapping`  *By Xinyan Yan, Vadim Indelman, and Byron Boots*
 
 ## Introduction
 The code is dependent on [GTSAM 3.2](https://collab.cc.gatech.edu/borg/gtsam/), which implements *smoothing and mapping (SAM)* in robotics and vision, using *factor graphs* and *Bayes networks* as the underlying computing paradigm rather than sparse matrices.
